@@ -1,0 +1,288 @@
+fileFormatVersion: 2
+guid: 820981217e3bece4389114172c51074e
+ModelImporter:
+  serializedVersion: 19300
+  internalIDToNameTable:
+  - first:
+      74: 7530046773079701484
+    second: Hull|Left Track Forward
+  - first:
+      74: 3174552252537137507
+    second: Hull|Left Track Backward
+  - first:
+      74: -7636038163948105389
+    second: Hull|Left Track Backward.001
+  - first:
+      74: 4958643149040406919
+    second: Hull|Right Track Backward
+  - first:
+      74: 7267769681563261447
+    second: Hull|Right Track Forward
+  - first:
+      74: -1690259340200845450
+    second: Hull|Tracks LAction
+  - first:
+      74: -2716997315282924419
+    second: Hull|Tracks LAction.001
+  - first:
+      74: -6262633273938349957
+    second: Hull|Tracks LAction.002
+  - first:
+      74: 1300529232163376258
+    second: Gun Manlet|Left Track Forward
+  - first:
+      74: 4326824765042734175
+    second: Gun Manlet|Left Track Backward
+  - first:
+      74: 1591538938505548704
+    second: Gun Manlet|Left Track Backward.001
+  - first:
+      74: -7361786179848160351
+    second: Gun Manlet|Right Track Backward
+  - first:
+      74: 7122035360000176079
+    second: Gun Manlet|Right Track Forward
+  - first:
+      74: -1836375324463871893
+    second: Gun Manlet|Tracks LAction
+  - first:
+      74: 1811172251344055218
+    second: Gun Manlet|Tracks LAction.001
+  - first:
+      74: -9004333140941228540
+    second: Gun Manlet|Tracks LAction.002
+  - first:
+      74: -1934679710907105379
+    second: Turret|Left Track Forward
+  - first:
+      74: -1295554295947498153
+    second: Turret|Left Track Backward
+  - first:
+      74: 6666953718005438850
+    second: Turret|Left Track Backward.001
+  - first:
+      74: -6152881366661233116
+    second: Turret|Right Track Backward
+  - first:
+      74: 6256833205919939419
+    second: Turret|Right Track Forward
+  - first:
+      74: -2067142988373370237
+    second: Turret|Tracks LAction
+  - first:
+      74: 6399876475472235284
+    second: Turret|Tracks LAction.001
+  - first:
+      74: -3363475562194546865
+    second: Turret|Tracks LAction.002
+  - first:
+      74: -9175926922925601175
+    second: Gun Barrel|Left Track Forward
+  - first:
+      74: 2860044197987544268
+    second: Gun Barrel|Left Track Backward
+  - first:
+      74: -4203161384189609526
+    second: Gun Barrel|Left Track Backward.001
+  - first:
+      74: 7344655503486017318
+    second: Gun Barrel|Right Track Backward
+  - first:
+      74: 6783881494998709408
+    second: Gun Barrel|Right Track Forward
+  - first:
+      74: 1348598764652570806
+    second: Gun Barrel|Tracks LAction
+  - first:
+      74: -7318296361078564586
+    second: Gun Barrel|Tracks LAction.001
+  - first:
+      74: -8597789979584596085
+    second: Gun Barrel|Tracks LAction.002
+  - first:
+      74: 4621119511155679861
+    second: Tracks L|Left Track Forward
+  - first:
+      74: 379937734975983886
+    second: Tracks L|Left Track Backward
+  - first:
+      74: -3121934601757303424
+    second: Tracks L|Left Track Backward.001
+  - first:
+      74: 8011021677354084886
+    second: Tracks L|Right Track Backward
+  - first:
+      74: 674969637523830475
+    second: Tracks L|Right Track Forward
+  - first:
+      74: 4538283762707376997
+    second: Tracks L|Tracks LAction
+  - first:
+      74: 5005862979492501249
+    second: Tracks L|Tracks LAction.001
+  - first:
+      74: 414309969143079361
+    second: Tracks L|Tracks LAction.002
+  - first:
+      74: 7757807414392505539
+    second: Side Plate L|Left Track Forward
+  - first:
+      74: -1641939855464123443
+    second: Side Plate L|Left Track Backward
+  - first:
+      74: -1227381369280713843
+    second: Side Plate L|Left Track Backward.001
+  - first:
+      74: -2461863076826837156
+    second: Side Plate L|Right Track Backward
+  - first:
+      74: 5649816050240643643
+    second: Side Plate L|Right Track Forward
+  - first:
+      74: -9186348230039897410
+    second: Side Plate L|Tracks LAction
+  - first:
+      74: -7071949207988225833
+    second: Side Plate L|Tracks LAction.001
+  - first:
+      74: -1465700042270950855
+    second: Side Plate L|Tracks LAction.002
+  - first:
+      74: 6429969933097149761
+    second: Tracks R|Left Track Forward
+  - first:
+      74: -4533693759956337380
+    second: Tracks R|Left Track Backward
+  - first:
+      74: -5228361250812751241
+    second: Tracks R|Left Track Backward.001
+  - first:
+      74: -3534890653343273591
+    second: Tracks R|Right Track Backward
+  - first:
+      74: 8479808004542549454
+    second: Tracks R|Right Track Forward
+  - first:
+      74: 1831321953766693169
+    second: Tracks R|Tracks LAction
+  - first:
+      74: -4776980375346151320
+    second: Tracks R|Tracks LAction.001
+  - first:
+      74: 6286762131306836932
+    second: Tracks R|Tracks LAction.002
+  - first:
+      74: 6144150479381265751
+    second: Side Plate R|Left Track Forward
+  - first:
+      74: 1187382499752497503
+    second: Side Plate R|Left Track Backward
+  - first:
+      74: 6036797022043248227
+    second: Side Plate R|Left Track Backward.001
+  - first:
+      74: -1243678941759334017
+    second: Side Plate R|Right Track Backward
+  - first:
+      74: -5352789879269281689
+    second: Side Plate R|Right Track Forward
+  - first:
+      74: -714540318016367037
+    second: Side Plate R|Tracks LAction
+  - first:
+      74: 2498789705255970396
+    second: Side Plate R|Tracks LAction.001
+  - first:
+      74: 9149316173910101117
+    second: Side Plate R|Tracks LAction.002
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
